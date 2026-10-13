@@ -1,63 +1,69 @@
 
 <div align="center">
 
-# 👋 Hey, I'm CoderBrajesh
+# 👋 Hi, I'm CoderBrajesh
 
-### 💻 Frontend Developer | React.js | JavaScript
+### Full Stack Developer | Java & Python | AI/ML Engineer
 
-Building modern, responsive and user-friendly web applications.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=React.js+Developer;Frontend+Web+Developer;Always+Learning+New+Things" alt="Typing SVG" />
-
-[![GitHub](https://img.shields.io/badge/GitHub-CoderBrajesh-181717?style=for-the-badge&logo=github)](https://github.com/CoderBrajesh)
+I build modern web applications, scalable backend systems,
+and intelligent solutions using Machine Learning and Deep Learning.
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 👨‍💻 Interested in Frontend and Full Stack Development.
-- ⚛️ Learning and building projects with React.js.
-- 🎨 Passionate about responsive UI and modern web design.
-- 🏫 Building practical projects to improve my development skills.
-- 🌱 Always learning and improving.
+- 🌐 Full Stack Web Development
+- ☕ Java Development & Spring Boot
+- 🐍 Python Programming
+- 🤖 Machine Learning & Deep Learning
+- ⚛️ Frontend Development with React.js and Next.js
+- 🗄️ Backend Development, APIs and Database Integration
+- 🚀 Learning by building practical, real-world projects
 
-## 🧰 Languages & Tools
+## 🛠️ Technologies & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,java,python,git,github,vscode" alt="Technologies" />
-</p>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-## 📌 My Projects
+### Backend Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-| Project | Description |
-|---|---|
-| 🏦 Bank Management System | Banking management project |
-| 🏫 School Management | School administration project |
-| 🛡️ Fraud Detection | Fraud detection and risk analytics project |
-| ☕ Java Simple Project | Java programming practice |
+### AI & Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-8A2BE2?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-6A5ACD?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-Explore all projects:
+### Tools & Databases
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-[![Repositories](https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github)](https://github.com/CoderBrajesh?tab=repositories)
+## 🚀 Featured Projects
 
-## 📊 GitHub Statistics
+- 🏦 Bank Management System
+- 🏫 School Management System
+- 🛡️ Fraud Detection & Risk Analytics
+- ☕ Java Programming Projects
+- 🤖 Python & Machine Learning Projects
+
+## 📈 My Developer Journey
+
+I enjoy exploring different technologies, solving problems,
+and developing projects across web development, backend engineering,
+and artificial intelligence.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CoderBrajesh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderBrajesh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💙 Thanks for visiting my profile!
-
-⭐ Feel free to explore my repositories and projects.
+⭐ Explore my repositories and follow my journey!
 
 </div>
